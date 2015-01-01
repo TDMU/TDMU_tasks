@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+	<meta charset="UTF-8">
+	<title>Я навчусь програмувати!</title>
+</head>
+<body>
+	<h1>Кобильник Борис</h1>
+	<p>Завдання</p>	
+</body>
+</html>
